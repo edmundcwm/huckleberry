@@ -10,6 +10,10 @@ body {
 }
 
 /* Add styles here! */
+h1, h2 {
+  margin: 0;
+}
+
 h1 {
   font-size: 1.5rem;  
 }
