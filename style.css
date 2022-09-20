@@ -10,3 +10,30 @@ body {
 }
 
 /* Add styles here! */
+header {
+  margin-top: 96px;
+  margin-bottom: 64px;
+}
+
+main {
+  background-color: hsl(0deg, 0%, 60%);
+  padding: 64px 0;
+  border-top: 7px solid hsl(0deg, 0%, 40%);
+}
+
+.max-width-wrapper {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  background-color: #fff;
+  padding: 24px;
+}
+
+.intro-chunk {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
